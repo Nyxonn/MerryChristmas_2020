@@ -1,0 +1,5 @@
+C:\Users\Daniel\source\repos\choinka\choinka\obj\Release\choinka.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\choinka\choinka\obj\Release\choinka.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\choinka\choinka\bin\Release\choinka.exe.config
+C:\Users\Daniel\source\repos\choinka\choinka\obj\Release\choinka.exe
+C:\Users\Daniel\source\repos\choinka\choinka\obj\Release\choinka.pdb
